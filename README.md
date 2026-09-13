@@ -9,7 +9,7 @@
 **Project Role:** `Gameplay Programmer` | `Custom Physics & Systems Engineer`  
 **Tech Stack:** `Game Boy (Z80 / LR35902)` | `Z80 Assembly` | `RGBDS` 
 
-<img src="https://img.itch.zone/aW1nLzIzODczMDQ4LnBuZw==/original/gBCD6O.png" alt="Pop Push Banner" width="500" height="250" style="object-fit: cover; border-radius: 6px;"/>
+<img src="https://img.itch.zone/aW1nLzIzODczMDQ4LnBuZw==/original/gBCD6O.png" alt="Pop Push Banner" />
 
 ---
 
